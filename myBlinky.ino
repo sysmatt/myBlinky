@@ -1,5 +1,5 @@
 // Simple Demo Blinker -MEH
-#define PIN_LED 13
+#define PIN_LED 2
 
 void setup() {
 	pinMode(PIN_LED,OUTPUT);
